@@ -22,6 +22,9 @@ In the old days, you’d enter your username/password directory and the app woul
 
 In the dialogs below, that’s what we’re talking about. This is an application asking if it can access data on your behalf.
 
+![image](https://user-images.githubusercontent.com/52599778/158182916-10309a47-9c7b-4147-8527-d05075f65b57.png)
+
+
 To break it down simply, OAuth is where:
 
 1. App requests authorization from User
